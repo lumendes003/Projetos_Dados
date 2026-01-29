@@ -49,13 +49,6 @@ A automação permitiu transformar um processo lento e frágil em um fluxo robus
 
 *(estrutura ilustrativa — pode adaptar conforme seu repositório)*
 
----
-
-## ✨ Autor
-
-Luciana Mendes  
-Data Analyst | BI | Automação de Processos | Python | SQL
-
 ## 📁 Estrutura do Projeto
 cobertura-reservas/
 │
@@ -75,3 +68,8 @@ cobertura-reservas/
 └── .gitignore
 
 
+---
+## ✨ Autor
+
+Luciana Mendes  
+Data Analyst | BI | Automação de Processos | Python | SQL

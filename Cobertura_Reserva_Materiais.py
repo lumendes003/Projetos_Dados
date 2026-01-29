@@ -4,7 +4,7 @@ import pandas as pd
 from datetime import datetime
 import time
 
-PASTA_BASE = Path(r'C:\Users\marilya.sales\OneDrive - Igneo\Documentos\PYTHON- MELHORIAS\Materiais\COBERTURA OBRAS 2')
+PASTA_BASE = Path('caminho do arquivo')
 ARQ_ENTRADA = PASTA_BASE / 'BASE ENTRADA COBERTURA RESERVAS.xlsm'
 ARQ_SAIDA   = PASTA_BASE / 'COBERTURA OBRAS RESERVAS ATUAL.xlsx'
 
@@ -332,4 +332,5 @@ def executar():
 
 if __name__ == '__main__':
     executar()
+
  
